@@ -27,5 +27,5 @@ During tests an in-memory database is used.
 
  ### Database
   - **H2**  - in-memory database management system 
-
-![alt text](https://github.com/StanislavRa/bowling/thumbnail.png?raw=true)
+## Screenshot
+![ScreenShot](https://github.com/StanislavRa/bowling/blob/master/thumbnail.png?raw=true)
